@@ -11,3 +11,9 @@ git clone git@github.com:kesnerwalter/ops-ubuntu.git /vagrant/ops-ubuntu
 
 /vagrant/ops-ubuntu/vagrant/setup.sh
 /vagrant/ops-ubuntu/vagrant/setup-apache.sh
+/vagrant/ops-ubuntu/vagrant/setup-php.sh
+/vagrant/ops-ubuntu/vagrant/setup-mysql.sh
+
+sudo service apache2 restart
+
+exit 0
