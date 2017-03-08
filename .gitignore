@@ -3,5 +3,5 @@
 .vagrant
 *.log
 lockedbox
-ops-ubuntu
-kesnerwalter
+ops/*
+code/*
